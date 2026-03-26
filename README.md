@@ -1,1 +1,2 @@
 数据集Agriculture-wiki-QA-110k的子集和Math-reasoning-mini的子集对Qwen3:0.6b进行全量微调和Qlora微调尝试
+Qwen3:0.6b学习了相关知识后呈现对农业或数学问题的偏向，但仍受限于数据集和模型大小
