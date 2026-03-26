@@ -1,0 +1,1 @@
+数据集Agriculture-wiki-QA-110k的子集和Math-reasoning-mini的子集对Qwen3:0.6b进行全量微调和Qlora微调尝试
